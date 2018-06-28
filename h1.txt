@@ -1,0 +1,11 @@
+commit f6322530eccdf06fd0920290d4ba387015ff7556
+Author: BowenWan <bwan4@asu.edu>
+Date:   Mon Jun 25 11:14:10 2018 -0700
+
+    modified f2.txt
+
+commit 32aca87511429d3dde175adb665ee9b70a091a96
+Author: BowenWan <bwan4@asu.edu>
+Date:   Sun Jun 24 18:05:26 2018 -0700
+
+    added readme.txt
